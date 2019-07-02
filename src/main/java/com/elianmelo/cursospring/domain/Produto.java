@@ -1,3 +1,10 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 02/07/2019
+Resumo: Classe de Domínio que representa um produto do sistema
+Referência ao enunciado/origem do exercício: https://www.udemy.com/spring-boot-ionic/
+*/
+
 package com.elianmelo.cursospring.domain;
 
 import java.io.Serializable;

@@ -1,3 +1,10 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 27/06/2019
+Resumo: Classe de Serviço que fornece para o resource os dados de categoria já filtrados
+Referência ao enunciado/origem do exercício: https://www.udemy.com/spring-boot-ionic/
+*/
+
 package com.elianmelo.cursospring.services;
 
 import java.util.Optional;

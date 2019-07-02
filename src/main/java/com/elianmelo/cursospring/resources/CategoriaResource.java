@@ -1,3 +1,10 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 21/06/2019
+Resumo: Classe Resource que fornece para o usuário categorias
+Referência ao enunciado/origem do exercício: https://www.udemy.com/spring-boot-ionic/
+*/
+
 package com.elianmelo.cursospring.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;

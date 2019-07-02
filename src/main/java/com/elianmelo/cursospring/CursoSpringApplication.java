@@ -1,3 +1,10 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 19/06/2019
+Resumo: Classe de instanciação e base do Spring
+Referência ao enunciado/origem do exercício: https://www.udemy.com/spring-boot-ionic/
+*/
+
 package com.elianmelo.cursospring;
 
 import java.util.Arrays;
@@ -29,7 +36,7 @@ public class CursoSpringApplication implements CommandLineRunner {
 
 		Categoria cat1 = new Categoria(null, "Informática");
 		Categoria cat2 = new Categoria(null, "Escritório");
-		
+
 		Produto p1 = new Produto(null, "Computador", 2000.00);
 		Produto p2 = new Produto(null, "Impressora", 800.00);
 		Produto p3 = new Produto(null, "Mouse", 80.00);

@@ -1,3 +1,10 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 25/06/2019
+Resumo: Classe de Domínio que representa uma categoria de um produto
+Referência ao enunciado/origem do exercício: https://www.udemy.com/spring-boot-ionic/
+*/
+
 package com.elianmelo.cursospring.domain;
 
 import java.io.Serializable;
@@ -12,6 +19,7 @@ import javax.persistence.ManyToMany;
 
 @Entity
 public class Categoria implements Serializable {
+	
 	private static final long serialVersionUID = 1L;
 	
 	@Id
